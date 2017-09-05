@@ -1,21 +1,21 @@
 body {font-family:Verdana,sans-serif;
 font-size:0.9em;
-background-color:##84D7EC;
-color: #343434}
+background-color:#84D7EC;
+color: #FF5733}
 #contenedor {width: 400px;margin: 0 auto}
 A:link{font-size:1em;color:white;text-decoration:none; display: block;}
 A:visited{font-size:1em;color:white;text-decoration:none}
 A:hover{font-size:1em;color:white;text-decoration:none;
-  background-color: #FF5733; transition: .5s background-color;}
+  background-color: #FFC300; transition: .5s background-color;}
 A:active{font-size:1em;color:white;text-decoration:none}
 header{margin:5px;margin-bottom:15px;padding:8px;
 font-family: Arial, Helvetica, sans-serif;
-color:#900C3F}
+color:#FF5733}
 footer {font-style:italic;
 font-size:0.8em;
-color: #343434}
+color: #FF5733}
 nav {margin:0;padding:0;
-background-color:#a44;}
-#navegacion {background-color:#a44; height:20px;}
+background-color:#FF5733;}
+#navegacion {background-color:#FF5733; height:20px;}
 #navegacion li {float:left; list-style:none; margin:0px 20px 0px 20px;}
 #navegacion ul {margin-left: 0px}
