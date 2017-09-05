@@ -1,6 +1,8 @@
 body {font-family:Verdana,sans-serif;
 font-size:0.9em;
-background-color:#F1CE83;}
+background-color:#F1CE83;
+color: #343434}
+#contenedor {width: 300px;margin: 0 auto}
 A:link{font-size:1em;color:white;text-decoration:none}
 A:visited{font-size:1em;color:white;text-decoration:none}
 A:hover{font-size:1em;color:white;text-decoration:underline}
